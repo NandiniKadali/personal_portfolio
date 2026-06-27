@@ -1,44 +1,5 @@
-# vCard - Personal portfolio
+💼 Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+This repository contains my personal portfolio website, designed to showcase my skills, projects, certifications, education, and technical expertise as a 2025 Computer Science Engineering graduate. The portfolio features a clean, responsive, and user-friendly design built using HTML, CSS, and JavaScript. It highlights my experience with Power BI, SQL, ServiceNow, and technical support concepts through practical projects, including an AI-powered healthcare chatbot (PregBot) and a Sales Performance Dashboard developed in Power BI. This portfolio reflects my passion for technology, continuous learning, and my aspiration to begin my career as a Junior IT Support Engineer, Application Support Engineer, or Junior Power BI Developer.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
-
-## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
+https://1drv.ms/f/c/d90577219af4e3e1/IgDh4_SaIXcFIIDZbgAAAAAAAZ0TjeJj7f2RD2rMQBUps-U?e=aDwPpd 
