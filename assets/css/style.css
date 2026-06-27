@@ -14,6 +14,19 @@
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
+.profile-image img {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #2563eb;
+    box-shadow: 0 15px 35px rgba(37, 99, 235, 0.3);
+    transition: transform 0.3s ease;
+}
+
+.profile-image img:hover {
+    transform: scale(1.05);
+}
 
 :root {
 
@@ -291,7 +304,6 @@ article.active {
   border-radius: inherit;
   z-index: -1;
 }
-
 
 
 
